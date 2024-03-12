@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 00:47:38</sys_created_on>
+        <sys_id>abd628ef47a00210db85981f316d435e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_890253_now_pro_estoque_de_material.x_890253_now_pro.admin</sys_name>
+        <sys_package display_value="Now Pro" source="x_890253_now_pro">bd9bca7e47600210db85981f316d437d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro">bd9bca7e47600210db85981f316d437d</sys_scope>
+        <sys_security_acl display_value="x_890253_now_pro_estoque_de_material">a3d628ef47a00210db85981f316d435c</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_abd628ef47a00210db85981f316d435e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-01 00:47:38</sys_updated_on>
+        <sys_user_role display_value="x_890253_now_pro.admin" name="x_890253_now_pro.admin">799bca7e47600210db85981f316d4388</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>

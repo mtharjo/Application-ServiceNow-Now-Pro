@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_search_filter">
+    <sys_search_filter action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <ais_search_source display_value="Incident">0ccacbeb47ac0210db85981f316d43aa</ais_search_source>
+        <label>Incident</label>
+        <name>Incident</name>
+        <order>100</order>
+        <search_context_config display_value="Now Pro Workspace AI Search Configuration">26ba4beb83ac0210b460984946f9d891</search_context_config>
+        <sys_class_name>sys_search_filter</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 12:43:39</sys_created_on>
+        <sys_id>98cacbeb47ac0210db85981f316d43d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Incident</sys_name>
+        <sys_package display_value="Now Pro" source="x_890253_now_pro">bd9bca7e47600210db85981f316d437d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro">bd9bca7e47600210db85981f316d437d</sys_scope>
+        <sys_update_name>sys_search_filter_98cacbeb47ac0210db85981f316d43d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-01 12:43:39</sys_updated_on>
+    </sys_search_filter>
+</record_update>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>L1 Configuration	</description>
+        <name>chrome_toolbar</name>
+        <page display_value="Now Pro Workspace">7eba4beb20ac0210fd8759da3871569a</page>
+        <required_translations>[ {
+  "message" : "Now Pro Home",
+  "comment" : ""
+}, {
+  "message" : "Now Pro Page 2",
+  "comment" : ""
+} ]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 12:43:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>6aba4beb55ac02107d311c4d12159889</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>chrome_toolbar</sys_name>
+        <sys_package display_value="Now Pro" source="x_890253_now_pro">bd9bca7e47600210db85981f316d437d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro">bd9bca7e47600210db85981f316d437d</sys_scope>
+        <sys_update_name>sys_ux_page_property_6aba4beb55ac02107d311c4d12159889</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 13:15:33</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_890253_now_pro.7eba4beb20ac0210fd8759da3871569a.root.chrome_toolbar</unique_name>
+        <value>[{"id":"now-pro-home","label":{"translatable":true,"message":"Now Pro Home"},"icon":"home-outline","routeInfo":{"route":"now-pro-home"},"group":"top","badge":{},"presence":{},"availability":{}},{"id":"now-pro-page-2","label":{"translatable":true,"message":"Now Pro Page 2"},"icon":"shield-check-outline","routeInfo":{"route":"now-pro-page-2"},"group":"top","badge":{},"presence":{},"availability":{}}]</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=6aba4beb55ac02107d311c4d12159889"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>6aba4beb55ac02107d311c4d12159889</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-02 13:15:33</sys_created_on>
+        <sys_id>09abd88847b48210db85981f316d43ae</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-02 13:15:33</sys_updated_on>
+        <tablename>sys_ux_page_property</tablename>
+        <value>L1 Configuration	</value>
+    </sys_translated_text>
+</record_update>
