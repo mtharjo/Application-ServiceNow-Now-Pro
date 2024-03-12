@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>sys_ux_applicability sys_id for Workspace audience</description>
+        <name>wbApplicabilityConfigId</name>
+        <page display_value="Now Pro Workspace">7eba4beb20ac0210fd8759da3871569a</page>
+        <required_translations/>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 12:43:34</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>2aba4beb6bac02104bc78f2e0dda988a</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>wbApplicabilityConfigId</sys_name>
+        <sys_package display_value="Now Pro" source="x_890253_now_pro">bd9bca7e47600210db85981f316d437d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Now Pro">bd9bca7e47600210db85981f316d437d</sys_scope>
+        <sys_update_name>sys_ux_page_property_2aba4beb6bac02104bc78f2e0dda988a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-01 12:43:37</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_890253_now_pro.7eba4beb20ac0210fd8759da3871569a.root.wbApplicabilityConfigId</unique_name>
+        <value>23ba8beb47ac0210db85981f316d43c9</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=2aba4beb6bac02104bc78f2e0dda988a"/>
+    <sys_translated_text action="INSERT_OR_UPDATE">
+        <documentkey>2aba4beb6bac02104bc78f2e0dda988a</documentkey>
+        <fieldname>description</fieldname>
+        <language>pb</language>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-03-01 12:43:37</sys_created_on>
+        <sys_id>77ba8beb47ac0210db85981f316d43da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-03-01 12:43:37</sys_updated_on>
+        <tablename>sys_ux_page_property</tablename>
+        <value>sys_ux_applicability sys_id for Workspace audience</value>
+    </sys_translated_text>
+</record_update>

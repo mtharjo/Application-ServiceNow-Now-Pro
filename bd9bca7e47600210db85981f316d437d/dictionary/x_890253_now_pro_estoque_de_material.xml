@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="d6d6a4ef47a00210db85981f316d4387" label="Estoque de Material" max_length="40" name="x_890253_now_pro_estoque_de_material" type="collection">
+        <element label="Material" max_length="32" name="material" reference="x_890253_now_pro_material" type="reference"/>
+        <element label="Quantidade" max_length="40" name="quantidade" type="integer"/>
+        <element label="Solicitante" max_length="32" name="solicitante" reference="sys_user" type="reference"/>
+        <index name="index">
+            <element name="material"/>
+        </index>
+        <index name="index2">
+            <element name="solicitante"/>
+        </index>
+    </element>
+</database>
